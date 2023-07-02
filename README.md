@@ -20,5 +20,5 @@ python main.py
 
 ### 截图
 
-![](.\imgs\1.png)
+![](./imgs/1.png)
 
